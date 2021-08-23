@@ -1,8 +1,8 @@
   
 {
-    "name": "tnyurk",
-    "version": "1.0.0",
+    "name": "TinyUrl",
+    "version": "1.1.0",
     "description": "Lets you shrink urls using tnyurl",
     "author": "KKhaoSZ#0001",
-    "license": "MIT"
+    "license": "None"
 }
